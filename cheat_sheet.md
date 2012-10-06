@@ -13,3 +13,28 @@ inspired by [this](http://npcode.com/blog/archives/665) blog post.
 * `^w -,+` : 현재 커서가 위치한 윈도우의 크기를 줄이거나(-), 키운다(+)
 * `^w =` : 최소화, 최대화된 윈도우들을 원상복귀 시킨다.
 * `:qa` : 분할된 모든 윈도우를 닫는다.
+
+## Visual mode & change
+
+아래의 명령어에 `v` (visual mode) 와 `c` (change)를 조합하면 다양한 응용이 가능하다.
+
+* V : select entire line
+* . : repeat last command
+
+### in
+
+* v i w : select in word
+* v i ' : select in single quote
+* v i " : select in double quote
+* v i [ : select in square brackets
+* v i { : select in curly braces
+
+> `c`도 동일하게 활용가능
+
+### til
+
+* v t , : select til comma
+* v t ' : select til single quote
+* v t = : select til equal
+
+
