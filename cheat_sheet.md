@@ -37,4 +37,10 @@ inspired by [this](http://npcode.com/blog/archives/665) blog post.
 * v t ' : select til single quote
 * v t = : select til equal
 
+## Vrapper 전용 명령어
 
+[http://vrapper.sourceforge.net/home/](http://vrapper.sourceforge.net/home/)
+
+* gr : eclipse `refact` 메뉴 표출
+* gR : elcipse `rename` 모드
+* gm : eclipse `source` 메뉴 표출
