@@ -37,6 +37,11 @@ inspired by [this](http://npcode.com/blog/archives/665) blog post.
 * v t ' : select til single quote
 * v t = : select til equal
 
+## move & edit
+
+* A : move end of line & insert mode
+* I : move start of line & insert mode
+
 ## Vrapper 전용 명령어
 
 [http://vrapper.sourceforge.net/home/](http://vrapper.sourceforge.net/home/)
