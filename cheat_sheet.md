@@ -12,7 +12,14 @@ inspired by [this](http://npcode.com/blog/archives/665) blog post.
 * `^w _,|` : 현재 커서가 위치한 윈도우를 최대화 (나머지는 최소화)
 * `^w -,+` : 현재 커서가 위치한 윈도우의 크기를 줄이거나(-), 키운다(+)
 * `^w =` : 최소화, 최대화된 윈도우들을 원상복귀 시킨다.
+* `^w q` : 현재 윈도우를 닫는다.
 * `:qa` : 분할된 모든 윈도우를 닫는다.
+
+## tab control
+
+* `:Te` : 새로운 탭을 생성하고 파일브라우저를 띄운다.
+* `gt`, `gT` : 탭간 이동
+* `vim -p a.txt b.txt c.txt` : a, b, c 파일을 개별 탭으로 연다.
 
 ## Visual mode & change
 
