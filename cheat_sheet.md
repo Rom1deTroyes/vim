@@ -51,10 +51,10 @@ inspired by [this](http://npcode.com/blog/archives/665) blog post.
 
 ## fold
 
-* zo : fold
-* zc : unfold
-* zR : fold all
-* zM : unfold all
+* zc : fold
+* zo : unfold
+* zM : fold all
+* zR : unfold all
 
 ## Vrapper 전용 명령어
 
