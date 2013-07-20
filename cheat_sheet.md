@@ -48,7 +48,7 @@ inspired by [this](http://npcode.com/blog/archives/665) blog post.
 
 * A : move end of line & insert mode
 * I : move start of line & insert mode
-* 
+
 ## fold
 
 * zo : fold
