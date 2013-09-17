@@ -56,6 +56,13 @@ inspired by [this](http://npcode.com/blog/archives/665) blog post.
 * zM : fold all
 * zR : unfold all
 
+## move with g
+
+* gd : will take you to the local declaration.
+* gD : will take you to the global declaration.
+* g\* : search for the word under the cursor (like \*, but g\* on 'rain' will find words like 'rainbow').
+* g# : same as g* but in backward direction.
+
 ## Vrapper 전용 명령어
 
 [http://vrapper.sourceforge.net/home/](http://vrapper.sourceforge.net/home/)
