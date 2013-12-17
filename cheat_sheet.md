@@ -64,6 +64,15 @@ inspired by [this](http://npcode.com/blog/archives/665) blog post.
 * g\* : search for the word under the cursor (like \*, but g\* on 'rain' will find words like 'rainbow').
 * g# : same as g* but in backward direction.
 
+## 버퍼 목록 기호
+
+기호 | 설명
+-----|-----
+a | 활성화된 버퍼
+% | 현재 편집중
+# | 이전에 열었던 버퍼
++ | 변경부분이 있는 버퍼
+
 ## Vrapper 전용 명령어
 
 [http://vrapper.sourceforge.net/home/](http://vrapper.sourceforge.net/home/)
