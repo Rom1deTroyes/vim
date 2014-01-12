@@ -50,6 +50,9 @@ inspired by [this](http://npcode.com/blog/archives/665) blog post.
 
 * A : move end of line & insert mode
 * I : move start of line & insert mode
+* `:jumps` : 커서가 이동했던 모든 위치 확인
+  * `ctrl + o` : previous position
+  * `ctrl + i` : forward position
 
 ## fold
 
