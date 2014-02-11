@@ -15,7 +15,7 @@ inspired by [this](http://npcode.com/blog/archives/665) blog post.
 * `^w =` : 최소화, 최대화된 윈도우들을 원상복귀 시킨다.
 * `^w q` : 현재 윈도우를 닫는다.
 * `:qa` : 분할된 모든 윈도우를 닫는다.
-* `cw` : quickfix window 를 연다.
+* `:cw` : quickfix window 를 연다.
 
 ## tab control
 
