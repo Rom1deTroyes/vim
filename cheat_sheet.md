@@ -22,6 +22,8 @@ inspired by [this](http://npcode.com/blog/archives/665) blog post.
 * `:Te` : 새로운 탭을 생성하고 파일브라우저를 띄운다.
 * `gt`, `gT` : 탭간 이동
 * `^w gf` : 커서 위치의 단어와 관련된 파일을 새 탭에 연다.
+* `^w f` : 커서 위치의 단어와 관련된 파일을 새 윈도우에 연다. ([vim-node](https://github.com/moll/vim-node))
+* `^w T` : 현재 윈도우의 파일을 새 탭에 연다.
 * `$vim -p a.txt b.txt c.txt` : vim 실행시 a, b, c 파일을 개별 탭으로 연다.
 
 ## Visual mode & change
